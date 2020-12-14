@@ -77,7 +77,7 @@ Awesome list about loading indicators in different languages and formats.
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [MProgress.js](https://github.com/lightningtgc/MProgress.js) - Material Progress—Google Material Design Progress linear bar. By using CSS3 and vanilla JavaScript.
 * [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
-* [node-progress](https://github.com/visionmedia/node-progress) - Flexible ascii progress bar for nodejs.
+* [node-progress](https://github.com/visionmedia/node-progress) - Flexible ascii progress bar for Node.js.
 * [NProgress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc.
 * [ProgressBar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars.
 * [progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete.
