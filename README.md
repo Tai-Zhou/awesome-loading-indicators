@@ -1,4 +1,4 @@
-# Awesome Loading Indicators
+# Awesome Loading Indicators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome list about loading indicators in different languages and formats.
 
