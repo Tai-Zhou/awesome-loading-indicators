@@ -5,7 +5,7 @@ Awesome list about loading indicators in different languages and formats.
 ## Contents
 
 - [C/C++](#cc)
-- [C](#c)
+- [C#](#c)
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
