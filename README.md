@@ -2,7 +2,7 @@
 
 Awesome list about loading indicators in different languages and formats.
 
-## Contents <!-- omit in toc -->
+## Contents
 
 - [C/C++](#cc)
 - [C](#c)
