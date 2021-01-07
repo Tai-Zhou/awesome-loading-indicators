@@ -1,4 +1,4 @@
-# Awesome Loading Indicators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Loading Indicators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/Tai-Zhou/awesome-loading-indicators/workflows/Awesome%20Lint/badge.svg)](https://github.com/Tai-Zhou/awesome-loading-indicators/actions)
 
 Awesome list about loading indicators in different languages and formats.
 
