@@ -1,4 +1,4 @@
-# Awesome Loading Indicators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/Tai-Zhou/awesome-loading-indicators/workflows/Awesome%20Lint/badge.svg)](https://github.com/Tai-Zhou/awesome-loading-indicators/actions)
+# Awesome Loading Indicators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome list about loading indicators in different languages and formats.
 
@@ -123,4 +123,5 @@ Awesome list about loading indicators in different languages and formats.
 
 ## TypeScript
 
+- [NG Bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap widgets.
 - [React Spinners](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
