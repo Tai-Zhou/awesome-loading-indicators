@@ -31,6 +31,7 @@ Awesome list about loading indicators in different languages and formats.
 
 - [CSS loader](https://github.com/raphaelfabeni/css-loader) - Simple loaders for your web applications using only one div and pure CSS.
 - [CSSPIN](https://github.com/webkul/csspin) - CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code for Pure CSS Loader and Spinner.
+- [css-spinner](https://github.com/loadingio/css-spinner) - Collection of 12 small, elegant pure css spinners for your website's loading animation.
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
 - [PACE](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [Single Element CSS Spinners](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
